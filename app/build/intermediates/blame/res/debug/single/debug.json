@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_address.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_change_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_home_seller_drawer.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\menu\\activity_home_seller_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_app.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_about_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_add_book_36.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\add_book_36.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_order_history_36.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\order_history_36.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logouticon.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\logouticon.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_homec.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\fragment_homec.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_bookcavelogo.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-anydpi-v26\\bookcavelogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_seller_current_orders.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\fragment_seller_current_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_orderhistoryicon.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\orderhistoryicon.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment_history_c.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_payment_history_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_customer.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_home_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_buy_book.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_buy_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_bookcavelogo_round.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-xxxhdpi\\bookcavelogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_login.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_customer_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_devicon.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\devicon.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_settings_36.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\settings_36.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_navsearch.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\navsearch.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_favoritesicon.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\favoritesicon.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_bookcavelogo_round.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-mdpi\\bookcavelogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobilec_navigation.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\navigation\\mobilec_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_navprofile.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\navprofile.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_home_seller.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\app_bar_home_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_hollow.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable\\round_corner_hollow.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\font\\nunito.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_order.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_update_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_current_order_36.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\current_order_36.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_payment_cus_list.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\row_payment_cus_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_book_info_order.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_book_info_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\menu_home_seller.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\menu\\home_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_helpicon.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\helpicon.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_design_settings.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\design_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_paymenthistoryicon.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\paymenthistoryicon.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_seller_pay_history.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\fragment_seller_pay_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sea_round_corner.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\sea_round_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_order_cus_list.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\row_order_cus_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_history_c.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_order_history_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_approve_list.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\row_approve_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_seller.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_home_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_bookcavelogo_round.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-hdpi\\bookcavelogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_seller_profile.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\fragment_seller_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_bookcavelogo_round.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-anydpi-v26\\bookcavelogo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_about_36.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\about_36.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_bookcavelogo_foreground.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-xxhdpi\\bookcavelogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_bookcavelogo.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-mdpi\\bookcavelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_book_search_result.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\row_book_search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home_26.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\home_26.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_book_search_main.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\row_book_search_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_bookcavelogo_foreground.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-mdpi\\bookcavelogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_bookcavelogo_round.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-xhdpi\\bookcavelogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_book_info.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_book_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_book_api_result.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\row_book_api_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_account_customer.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_create_account_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_developer.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_contact_developer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_bookcavelogo_foreground.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-hdpi\\bookcavelogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_preview_book.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_preview_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_favourites.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_favourites.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pro_pic_demo.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\pro_pic_demo.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_shape.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable\\loading_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_bookcavelogo_round.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-xxhdpi\\bookcavelogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_book_list.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\row_book_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_home_seller.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\content_home_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_myprofileicon.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\myprofileicon.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_book_list_36.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\book_list_36.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logouticonwhite.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\logouticonwhite.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home_filled_36.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\home_filled_36.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_carticon.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\carticon.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_booklist.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\fragment_booklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_bookcavelogo.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-xxxhdpi\\bookcavelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rent_book.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_rent_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_navhome.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\navhome.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_bookcavelogo_foreground.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-xhdpi\\bookcavelogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_bookcavelogo.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-hdpi\\bookcavelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_bookcavelogo.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-xhdpi\\bookcavelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home_hollow_36.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\home_hollow_36.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\menu_actionbarmenu.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\menu\\actionbarmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_book.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_add_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_search_button.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\search_button.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_home_seller.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\nav_header_home_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_creat_account_seller.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_creat_account_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_round_corner.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\round_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_remove_book_36.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\remove_book_36.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_filter_s_list.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\row_filter_s_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_bookcavelogo_foreground.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-xxxhdpi\\bookcavelogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_order_customer.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_view_order_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_customer.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_profile_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_placed.xml.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\layout\\activity_placed.xml"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_bookcavelogo.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\mipmap-xxhdpi\\bookcavelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_profile_info_36.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\profile_info_36.png"
+    },
+    {
+        "merged": "C:\\Users\\kithi\\Documents\\BookCave\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_report_feedback_36.png.flat",
+        "source": "C:\\Users\\kithi\\Documents\\BookCave\\app\\src\\main\\res\\drawable-v24\\report_feedback_36.png"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">709053087055-179vf0g8h4a942iul9v52g5i524rl22m.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">709053087055</string>
+    <string name="google_api_key" translatable="false">AIzaSyAu0VQVxcQv0Be7EDJ9zP2zDylh2v5A1N8</string>
+    <string name="google_app_id" translatable="false">1:709053087055:android:8e7e89095e6eb1696c193a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAu0VQVxcQv0Be7EDJ9zP2zDylh2v5A1N8</string>
+    <string name="google_storage_bucket" translatable="false">dbookcave.appspot.com</string>
+    <string name="project_id" translatable="false">dbookcave</string>
+</resources>
